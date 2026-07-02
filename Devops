@@ -67,3 +67,12 @@ $ git branch f1
 agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2/Devops (main)
 $ git checkout f1
 Switched to branch 'f1'
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2/Devops (f1)
+$ git checkout master
+branch 'master' set up to track 'origin/master'.
+Switched to a new branch 'master'
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2/Devops (master)
+$ git checkout f1
+Switched to branch 'f1'
