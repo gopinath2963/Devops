@@ -60,3 +60,10 @@ remote: Compressing objects: 100% (12/12), done.
 remote: Total 16 (delta 2), reused 4 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (16/16), done.
 Resolving deltas: 100% (2/2), done.
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2/Devops (main)
+$ git branch f1
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2/Devops (main)
+$ git checkout f1
+Switched to branch 'f1'
