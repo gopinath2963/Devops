@@ -50,3 +50,13 @@ remote:      https://github.com/gopinath2963/Devops/pull/new/master
 remote: 
 To https://github.com/gopinath2963/Devops
  * [new branch]      master -> master
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer2 (master)
+$ git clone "https://github.com/gopinath2963/Devops"
+Cloning into 'Devops'...
+remote: Enumerating objects: 16, done.
+remote: Counting objects: 100% (16/16), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 16 (delta 2), reused 4 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (16/16), done.
+Resolving deltas: 100% (2/2), done.
