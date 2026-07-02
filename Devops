@@ -31,3 +31,10 @@ agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer1 (master)
 $ git status
 On branch master
 nothing to commit, working tree clean
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer1 (master)
+$ git remote add origin "https://github.com/gopinath2963/Devops"
+
+agent1@DESKTOP-1DC7G63 MINGW64 ~/Desktop/GIT/Developer1 (master)
+$ git push origin master
+info: please complete authentication in your browser...
